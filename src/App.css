@@ -1,0 +1,338 @@
+.App {
+  position: relative;
+  width: 1440px;
+  height: 4547px;
+
+  background: #ffffff;
+}
+
+.AppNavigation {
+  position: absolute;
+  width: 1440px;
+  height: 130.08px;
+  left: 0px;
+  top: 0px;
+}
+
+.AppHeader {
+  position: absolute;
+  width: 1440px;
+  height: 130.08px;
+  left: 0px;
+  top: 0px;
+}
+
+.Ellipse1 {
+  position: absolute;
+  width: 380px;
+  height: 380px;
+  left: 231px;
+  top: 1059px;
+}
+
+.AppInteractionDesignText {
+  position: absolute;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  /* or 117% */
+  letter-spacing: -0.6px;
+
+  color: #685dc5;
+}
+
+.AppIcon1 {
+  position: absolute;
+  height: 276px;
+  left: 29.1%;
+  right: 61.5%;
+  top: 152.98px;
+
+  mix-blend-mode: normal;
+  opacity: 0.9;
+  transform: rotate(20deg);
+}
+
+.SmallText1 {
+  position: absolute;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 22px;
+  line-height: 32px;
+  /* or 145% */
+  letter-spacing: -0.33px;
+
+  color: #535353;
+}
+
+.SmallText2 {
+  position: absolute;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 22px;
+  line-height: 32px;
+  /* or 145% */
+  letter-spacing: -0.33px;
+
+  color: #535353;
+}
+
+.SmallTextPosition {
+  position: absolute;
+  height: 33px;
+  left: 14.03%;
+  right: 55.56%;
+  top: 709px;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 22px;
+  line-height: 32px;
+  /* or 145% */
+  letter-spacing: -0.33px;
+
+  color: #535353;
+}
+
+.ApplyButton {
+  position: absolute;
+  height: 58px;
+  width: 166px;
+  top: 790px;
+  left: 200px;
+  border-radius: 29px;
+
+  background: #685dc5;
+  border-radius: 29px;
+}
+
+.ApplyButtonText {
+  position: absolute;
+  height: 24px;
+  left: 24.68%;
+  right: 24.12%;
+  top: calc(50% - 24px / 2 - 1px);
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 24px;
+  /* identical to box height, or 133% */
+  text-align: center;
+  letter-spacing: -0.18px;
+
+  color: #ffffff;
+}
+
+.ZeptolabLogo {
+  position: absolute;
+  height: 80px;
+  left: 55.56%;
+  right: 38.89%;
+  top: 261px;
+}
+
+.SmallerText1 {
+  position: absolute;
+  height: 24px;
+  left: 63.89%;
+  right: 27.78%;
+  top: 269px;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 18px;
+  line-height: 24px;
+  /* identical to box height, or 133% */
+  letter-spacing: -0.18px;
+
+  color: #000000;
+
+  mix-blend-mode: normal;
+  opacity: 0.35;
+}
+
+.ZeptolabText {
+  position: absolute;
+  height: 24px;
+  left: 63.96%;
+  right: 19.44%;
+  top: 303px;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 27px;
+  line-height: 24px;
+  /* identical to box height, or 89% */
+  letter-spacing: -0.27px;
+  opacity: 0.85;
+  color: #535353;
+}
+
+.InforTableInnerText1 {
+  position: absolute;
+  width: 480px;
+  height: 346px;
+  left: 850px;
+  top: 368px;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 16px;
+  line-height: 64px;
+  /* identical to box height, or 150% */
+  letter-spacing: -0.145455px;
+
+  color: #685dc5;
+}
+
+.InfoRectangle1 {
+  position: absolute;
+  width: 480px;
+  height: 116px;
+  left: 800px;
+  top: 368px;
+
+  background: #ffffff;
+  border: 1px solid #dadada;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.InforTableInnerText2 {
+  position: absolute;
+  width: 480px;
+  height: 346px;
+  left: 850px;
+  top: 430px;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 27px;
+  line-height: 24px;
+  opacity: 0.85;
+
+  /* identical to box height, or 89% */
+  letter-spacing: -0.27px;
+
+  color: #535353;
+}
+.InforTableInnerTextSmaller1 {
+  position: absolute;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 1000;
+  font-size: 16px;
+  line-height: 64px;
+  /* identical to box height, or 150% */
+  letter-spacing: -0.145455px;
+
+  color: #685dc5;
+}
+
+.InfoRectangle2 {
+  position: absolute;
+  width: 480px;
+  height: 200px;
+  left: 800px;
+  top: 514px;
+
+  background: #ffffff;
+  border: 1px solid #dadada;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.InforTableInnerTextSmaller2 {
+  position: absolute;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 15px;
+  line-height: 24px;
+  opacity: 0.85;
+
+  /* identical to box height, or 89% */
+  letter-spacing: -0.16px;
+
+  color: #535353;
+}
+
+.Pattern1 {
+  position: absolute;
+  width: 560px;
+  height: 257px;
+  left: 880px;
+  top: 613px;
+
+  border: 1px solid #e6e6e6;
+}
+
+.Pattern2 {
+  position: absolute;
+  width: 438px;
+  height: 438px;
+  left: 203px;
+  top: 1030px;
+}
+
+.AboutTextHeader {
+  position: absolute;
+  height: 112px;
+  left: 52.78%;
+  right: 13.96%;
+  top: 1106px;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  /* or 117% */
+  letter-spacing: -0.6px;
+
+  color: #685dc5;
+}
+
+.AboutText {
+  position: absolute;
+  height: 160px;
+  left: 52.78%;
+  right: 13.96%;
+  top: 1258px;
+
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 22px;
+  line-height: 32px;
+  /* or 145% */
+  letter-spacing: -0.33px;
+
+  color: #535353;
+}
